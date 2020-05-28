@@ -1,6 +1,6 @@
 # globallocation
 
-A new Flutter package.
+A new Flutter package for use a location from multiple routes/widgets.
 
 ## Getting Started
 
