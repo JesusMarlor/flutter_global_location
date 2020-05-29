@@ -1,8 +1,8 @@
 name: globallocation
-description: for global service location
+description: global service location
 version: 0.0.1
-author: JesusMarfil
-homepage: https://www.pegassus.com.mx
+homepage: https://github.com/JesusMarlor/flutter_global_location
+repository: https://github.com/JesusMarlor/flutter_global_location
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
